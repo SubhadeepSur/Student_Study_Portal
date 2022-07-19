@@ -1,0 +1,5 @@
+.vscode
+study
+studentstudyportal/db.sqlite3
+studentstudyportal/dashboard/__pycache__
+studentstudyportal/dashboard/migrations/__pycache__
